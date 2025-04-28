@@ -115,4 +115,4 @@ Este projeto está licenciado sob [MIT License](LICENSE).
 ## 👨‍💻 Autor
 
 Gustavo Paixão  
-[LinkedIn](https://www.linkedin.com/in/gustavo-borges14/)) • [GitHub](https://github.com/Guh-paixao)
+[LinkedIn](https://www.linkedin.com/in/gustavo-borges14/) • [GitHub](https://github.com/Guh-paixao)
