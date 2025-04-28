@@ -12,7 +12,7 @@ Projeto desenvolvido em **Spring Boot 3** para geração de **QR Codes** persona
 
 ## 📆 Funcionalidades
 - Geração de QR Codes personalizados.
-- (Opcional) Upload de QR Codes diretamente para um bucket S3.
+- Upload de QR Codes diretamente para um bucket S3.
 - API REST simples e eficiente.
 
 ---
